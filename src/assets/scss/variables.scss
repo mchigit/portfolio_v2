@@ -1,0 +1,22 @@
+// Import Bulma's core
+@import "~bulma/sass/utilities/_all";
+
+$navbar-dropdown-background-color: #0a0a0a;
+$primary-color: #dbc8be;
+$background-color: #0a0a0a;
+
+$tabs-link-focus-active-border-bottom-color: $primary-color;
+$tabs-link-focus-border-bottom-color: $primary-color;
+$tabs-toggle-link-focus-active-background-color: $primary-color;
+$tabs-toggle-link-focus-background-color: $primary-color;
+$tabs-toggle-link-focus-active-border-color: $primary-color;
+$tabs-toggle-link-focus-border-color: $primary-color;
+$tabs-boxed-link-focus-active-background-color: $primary-color;
+$tabs-boxed-link-focus-background-color: $primary-color;
+$tabs-boxed-link-focus-active-border-bottom-color: $primary-color;
+$tabs-boxed-link-focus-border-bottom-color: $primary-color;
+
+// Import Bulma and Buefy styles
+@import "~bulma";
+@import "~buefy/src/scss/buefy";
+
